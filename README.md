@@ -1,4 +1,4 @@
-#include <stdio.h>
+bh#include <stdio.h>
 
 // Function to calculate simple interest
 float calculateSimpleInterest(float principal, float rate, float time) {
